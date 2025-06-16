@@ -1,5 +1,3 @@
-# VRSTAXFILING
-Welcome to VRS Tax Filing Services Professional GST, TDS, TCS, and Income Tax Return Filing
 <!DOCTYPE html>
 <html lang="en">
 <head>
